@@ -1,6 +1,7 @@
 # Firebase
 -----------------
 
+## Google Firebase - Realtime Database
 - [x] 18-IntroducaoNoSQL-2020
   http://moodle.dainf.ct.utfpr.edu.br/pluginfile.php/65606/mod_resource/content/0/IntroducaoNoSQL-2020.pdf
 - [x] 19-Palestra Introdução a NoSQL (NoSQL)
@@ -21,3 +22,27 @@
   https://www.youtube.com/watch?v=vFAE4iKhGPw&feature=youtu.be
 - [ ] 27-Firebase - demonstração 4 (consultas) (Demonstração - consulta firebase)
   https://www.youtube.com/watch?v=hQJBkugq8a8&feature=youtu.be
+
+## Google Firebase - Storage
+
+- [ ] 28-18b-Android-Firebase-Storage
+  http://moodle.dainf.ct.utfpr.edu.br/mod/resource/view.php?id=36563
+- [ ] 29-Google Firebase Storage - palestra
+  http://moodle.dainf.ct.utfpr.edu.br/mod/url/view.php?id=36564
+- [ ] 30-Firebase Storage - Demonstração
+  http://moodle.dainf.ct.utfpr.edu.br/mod/url/view.php?id=36565
+  
+## Mapas e Localização
+
+- [ ] 31-06a-Android-Localizacao
+  http://moodle.dainf.ct.utfpr.edu.br/mod/resource/view.php?id=36572
+- [ ] 32-Location API - palestra
+  http://moodle.dainf.ct.utfpr.edu.br/mod/url/view.php?id=36573
+- [ ] 33-Location API - demonstração
+  http://moodle.dainf.ct.utfpr.edu.br/mod/url/view.php?id=36574
+- [ ] 34-06b-Android-GoogleMaps
+  http://moodle.dainf.ct.utfpr.edu.br/mod/resource/view.php?id=36576
+- [ ] 35-Mapas - palestra
+  http://moodle.dainf.ct.utfpr.edu.br/mod/url/view.php?id=36585
+- [ ] 36-Mapas - demonstração
+  http://moodle.dainf.ct.utfpr.edu.br/mod/url/view.php?id=36586
