@@ -46,3 +46,8 @@
   http://moodle.dainf.ct.utfpr.edu.br/mod/url/view.php?id=36585
 - [ ] 36-Mapas - demonstração
   http://moodle.dainf.ct.utfpr.edu.br/mod/url/view.php?id=36586
+- [x] 37-"Live" da turma - 07/05/2020 - parte 1
+  https://www.youtube.com/watch?v=5GF6JtexYro&feature=youtu.be
+- [x] 38-"Live" da turma - 07/05/2020 - parte 2
+  https://www.youtube.com/watch?v=YJN9cClK_qI&feature=youtu.be
+
