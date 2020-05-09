@@ -1,5 +1,4 @@
 # Firebase
------------------
 
 ## Google Firebase - Realtime Database
 - [x] 18-IntroducaoNoSQL-2020
