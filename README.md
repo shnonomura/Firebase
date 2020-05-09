@@ -16,7 +16,7 @@
   https://www.youtube.com/watch?v=rS6bPiiDfLU&feature=youtu.be
 - [x] 24-Firebase - demonstração 1 (configuração) (Demonstração Firebase - Configuração)
   https://www.youtube.com/watch?v=COqAZ1wimCY&feature=youtu.be
-- [ ] 25-Firebase - demonstração 2 (console) (Demonstração - banco firebase)
+- [x] 25-Firebase - demonstração 2 (console) (Demonstração - banco firebase)
   https://www.youtube.com/watch?v=53fmOn9oEIk&feature=youtu.be
 - [ ] 26-Firebase - demonstração 3 (API Android) (Demonstração - Firebase Inserção)
   https://www.youtube.com/watch?v=vFAE4iKhGPw&feature=youtu.be
